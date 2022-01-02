@@ -99,11 +99,18 @@ td {
   background-color: #bec3ca4d;
   overflow-y: auto;
 }
+.menus::-webkit-scrollbar {
+  width: 5px;
+  background: #cecece;
+}
+.menus::-webkit-scrollbar-thumb {
+  background: rgba(126, 126, 126, 0.3);
+}
 .menu-list {
-  padding-top: 10px;
+  padding-top: 15px;
   padding-left: 10px;
   margin-right: 10px;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
 }
 .menu-image {
   width: 230px;
