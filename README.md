@@ -17,8 +17,8 @@
    npm install
    ```
 3. Start the Application
-   ```js
-   npm start;
+   ```sh
+   npm start
    ```
 
 ## Web Application Pages
@@ -38,7 +38,7 @@ Here are some snippets about this app:
 
 - History
 
-![History](./assets/pos-react-history)
+![History](./assets/pos-react-history.jpg)
 
 ## POS App Update!
 
