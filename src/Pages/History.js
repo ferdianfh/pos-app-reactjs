@@ -6,7 +6,7 @@ class History extends Component {
   render() {
     return (
       <Fragment>
-        <Sidebar title="History" searchcart={false} navbar={"history"} />
+        <Sidebar title="History" navbar={"history"} />
         <Content section="history" />
       </Fragment>
     );

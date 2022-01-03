@@ -76,7 +76,6 @@ class Home extends Component {
     };
   }
   render() {
-    // const { menu, cart } = this.state;
     return (
       <Fragment>
         <div>
